@@ -17,8 +17,6 @@
 </a>
 </p>
 
----
-
 ## 👀 Profile Views & Activity
 
 <p align="center">
@@ -64,11 +62,15 @@
 
 <p align="center">
 <a href="https://github.com/Kunalray0707/Zomato-Sales-Performance">
-  <img src="https://img.shields.io/badge/Zomato%20Analysis-View-red?style=for-the-badge&logo=zomato"/>
+  <img width="220" src="https://media.giphy.com/media/3o7TKsQ8UQhQkqf2Ss/giphy.gif"/><br/>
+  <img src="https://img.shields.io/badge/Zomato%20Sales%20Analysis-View%20Project-red?style=for-the-badge"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/Kunalray0707/Netflix-Content-Analysis">
-  <img src="https://img.shields.io/badge/Netflix%20Analysis-View-black?style=for-the-badge&logo=netflix"/>
+  <img width="220" src="https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif"/><br/>
+  <img src="https://img.shields.io/badge/Netflix%20Content%20Analysis-View%20Project-black?style=for-the-badge"/>
 </a>
 </p>
 
@@ -77,17 +79,26 @@
 <h3 align="center">🌐 Web Applications</h3>
 
 <p align="center">
+
 <a href="https://github.com/Kunalray0707/QuizNova---The-Next-Generation-Smart-Quiz-Platform">
-  <img src="https://img.shields.io/badge/QuizNova-App-purple?style=for-the-badge&logo=googleforms"/>
+  <img width="220" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif"/><br/>
+  <img src="https://img.shields.io/badge/QuizNova-Smart%20Quiz%20App-purple?style=for-the-badge"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Kunalray0707/EDUSPHERE---Smart-AI-Learning-Platform">
-  <img src="https://img.shields.io/badge/EDUSPHERE-AI-blue?style=for-the-badge"/>
+  <img width="220" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif"/><br/>
+  <img src="https://img.shields.io/badge/EDUSPHERE-AI%20Platform-blue?style=for-the-badge"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/Kunalray0707/ProConnect">
-  <img src="https://img.shields.io/badge/ProConnect-Network-green?style=for-the-badge&logo=linkedin"/>
+  <img width="220" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/><br/>
+  <img src="https://img.shields.io/badge/ProConnect-Networking%20App-green?style=for-the-badge"/>
 </a>
+
 </p>
 
 ---
@@ -109,12 +120,15 @@
 
 ---
 
-## 🐍 Contribution Snake (Live)
+## 📊 Activity & Mindset
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Kunalray0707" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&lines=Always+building+something+new+🚀;Data+%2B+Code+%3D+Impact;Keep+learning+keep+growing" />
+</p>
 ---
 
 ## 📈 Contribution Activity
