@@ -18,6 +18,11 @@
 </p>
 
 ## 👀 Profile Views
+<p align="center">
+  <a href="https://github.com/Kunalray0707">
+    <img src="https://img.shields.io/github/followers/Kunalray0707?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kunalray0707&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -38,7 +43,6 @@
 ---
 
 ## 🧰 Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css" />
 </p>
@@ -60,7 +64,6 @@
 ---
 
 ### 📊 Data Analytics Projects
-
 <p align="center">
 
 <a href="https://github.com/Kunalray0707/Zomato-Sales-Performance">
@@ -82,7 +85,6 @@
 ---
 
 ### 🌐 Web Development Projects
-
 <p align="center">
 
 <a href="https://github.com/Kunalray0707/QuizNova---The-Next-Generation-Smart-Quiz-Platform">
@@ -112,7 +114,6 @@
 ---
 
 ## 📊 GitHub Overview
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kunalray0707&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalray0707&layout=compact&theme=tokyonight&hide_border=true" />
@@ -121,44 +122,33 @@
 ---
 
 ## 🏆 Achievements
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kunalray0707&theme=onestar&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 📊 Activity & Mindset
-
+##  🧠 Mindset
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=Kunalray0707" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&lines=Always+building+something+new+🚀;Data+%2B+Code+%3D+Impact;Keep+learning+keep+growing" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Code.+Break.+Fix.+Repeat.;Data+%2B+Logic+%3D+Impact;Consistency+beats+motivation;Build+things+that+matter;Stay+curious+⚡" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
-
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=Kunalray0707" />
+  <img src="https://raw.githubusercontent.com/Kunalray0707/Kunalray0707/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
+---
+## 📊 Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ---
 
 ## 🧠 Current Focus
-
 - 📊 Advanced dashboards  
 - 🌐 Full-stack applications  
 - 🤖 AI-powered systems  
-
----
-
-## ⭐ Support
-
-<p align="center">
-  <a href="https://github.com/Kunalray0707">
-    <img src="https://img.shields.io/github/followers/Kunalray0707?style=for-the-badge&logo=github" />
-  </a>
-</p>
