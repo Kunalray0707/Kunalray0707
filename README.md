@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Ray</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Power+BI+Developer;Web+App+Builder;Python+Enthusiast&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Power+BI+Developer;Web+App+Builder;Tech+Enthusiast&center=true&width=500&height=50">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 - 🎓 MCA Student  
 - 📊 Passionate about **Data Analytics & Visualization**  
-- 🌐 Building **Web Apps & Smart Platforms**  
+- 🌐 Building **Web Apps & Smart AI Platforms**  
 - 🤖 Exploring **AI-based solutions**  
 - 💼 Open to **Data Analyst / Developer roles**  
 
@@ -62,7 +62,7 @@
 ## 📊 GitHub Stats (Live)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kunalray0707&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kunalray0707&show_icons=true&theme=radical&cache_seconds=60"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunalray0707&theme=radical"/>
 </p>
 
@@ -91,7 +91,7 @@ If you like my work, consider giving a ⭐ to my repositories!
 
 <p align="center">
   <a href="https://github.com/Kunalray0707">
-    <img src="https://img.shields.io/github/followers/Kunalray0707?style=for-the-badge&logo=github"/>
+   <img src="https://img.shields.io/github/followers/Kunalray0707?style=for-the-badge&logo=github&label=Followers"/>
   </a>
 </p>
 
