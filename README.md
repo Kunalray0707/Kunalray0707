@@ -67,15 +67,15 @@
 <p align="center">
 
 <a href="https://github.com/Kunalray0707/Zomato-Sales-Performance">
-  <img width="140" src="https://media.giphy.com/media/3o7TKsQ8UQhQkqf2Ss/giphy.gif"/>
+  <img width="80" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Zomato_logo.png"/>
   <br/>
   <img src="https://img.shields.io/badge/Zomato%20Sales%20Analysis-View%20Project-red?style=for-the-badge"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Kunalray0707/Netflix-Content-Analysis">
-  <img width="140" src="https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif"/>
+  <img width="80" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg"/>
   <br/>
   <img src="https://img.shields.io/badge/Netflix%20Analysis-View%20Project-black?style=for-the-badge"/>
 </a>
@@ -88,26 +88,28 @@
 <p align="center">
 
 <a href="https://github.com/Kunalray0707/QuizNova---The-Next-Generation-Smart-Quiz-Platform">
-  <img width="140" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif"/>
+  <img width="80" src="https://cdn-icons-png.flaticon.com/512/3407/3407033.png"/>
   <br/>
   <img src="https://img.shields.io/badge/QuizNova-Smart%20Quiz-purple?style=for-the-badge"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Kunalray0707/EDUSPHERE---Smart-AI-Learning-Platform">
-  <img width="140" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif"/>
+  <img width="80" src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png"/>
   <br/>
   <img src="https://img.shields.io/badge/EDUSPHERE-AI%20Learning-blue?style=for-the-badge"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Kunalray0707/ProConnect">
-  <img width="140" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
+  <img width="80" src="https://cdn-icons-png.flaticon.com/512/1077/1077114.png"/>
   <br/>
   <img src="https://img.shields.io/badge/ProConnect-Networking-green?style=for-the-badge"/>
 </a>
+
+</p>
 
 </p>
 
@@ -134,13 +136,11 @@
 </p>
 
 ---
-## Activity
+
+## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kunalray0707/Kunalray0707/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kunalray0707/Kunalray0707/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunalray0707&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
