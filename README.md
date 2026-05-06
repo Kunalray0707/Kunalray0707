@@ -134,20 +134,12 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kunalray0707/Kunalray0707/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 ## 📊 Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
-
 ## 🧠 Current Focus
 - 📊 Advanced dashboards  
 - 🌐 Full-stack applications  
