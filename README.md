@@ -14,7 +14,7 @@
 
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 MCA Student  
+- 🧠  **Tech Enthusiast**
 - 📊 Passionate about **Data Analytics & Visualization**  
 - 🌐 Building **Web Apps & Smart AI Platforms**  
 - 🤖 Exploring **AI-based solutions**  
