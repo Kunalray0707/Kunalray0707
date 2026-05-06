@@ -92,7 +92,7 @@
 <a href="https://github.com/Kunalray0707/QuizNova---The-Next-Generation-Smart-Quiz-Platform">
   <img width="80" src="https://cdn-icons-png.flaticon.com/512/3407/3407033.png"/>
   <br/>
-  <img src="https://img.shields.io/badge/QuizNova-Smart%20Quiz-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/QuizNova-View%20Project-purple?style=for-the-badge"/>
 </a>
 </p>
 
@@ -102,7 +102,7 @@
 <a href="https://github.com/Kunalray0707/EDUSPHERE---Smart-AI-Learning-Platform">
   <img width="80" src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png"/>
   <br/>
-  <img src="https://img.shields.io/badge/EDUSPHERE-AI%20Learning-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EDUSPHERE-View%20Project-blue?style=for-the-badge"/>
 </a>
 </p>
 
@@ -112,7 +112,7 @@
 <a href="https://github.com/Kunalray0707/ProConnect">
   <img width="80" src="https://cdn-icons-png.flaticon.com/512/1077/1077114.png"/>
   <br/>
-  <img src="https://img.shields.io/badge/ProConnect-Networking-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ProConnect-View%Project-green?style=for-the-badge"/>
 </a>
 
 </p>
@@ -144,9 +144,8 @@
 ## 👾 Contribution Playground
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120" />
+  <img src="https://img.shields.io/badge/🕹️%20Pacman%20Mode-ON-yellow?style=for-the-badge&logo=ghost&logoColor=black"/>
 </p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
