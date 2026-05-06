@@ -112,7 +112,7 @@
 <a href="https://github.com/Kunalray0707/ProConnect">
   <img width="80" src="https://cdn-icons-png.flaticon.com/512/1077/1077114.png"/>
   <br/>
-  <img src="https://img.shields.io/badge/ProConnect-View%Project-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ProConnect-Networking-green?style=for-the-badge"/>
 </a>
 
 </p>
@@ -144,7 +144,7 @@
 ## 👾 Contribution Playground
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🕹️%20Pacman%20Mode-ON-yellow?style=for-the-badge&logo=ghost&logoColor=black"/>
+  <img src="https://img.shields.io/badge/🕹️%20Commit%20Snake-ON-yellow?style=for-the-badge&logo=ghost&logoColor=black"/>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
