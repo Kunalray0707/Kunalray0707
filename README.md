@@ -71,9 +71,11 @@
   <br/>
   <img src="https://img.shields.io/badge/Zomato%20Sales%20Analysis-View%20Project-red?style=for-the-badge"/>
 </a>
+</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
+<p align="center">
 <a href="https://github.com/Kunalray0707/Netflix-Content-Analysis">
   <img width="80" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg"/>
   <br/>
@@ -92,24 +94,26 @@
   <br/>
   <img src="https://img.shields.io/badge/QuizNova-Smart%20Quiz-purple?style=for-the-badge"/>
 </a>
+</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
+<p align="center">
 <a href="https://github.com/Kunalray0707/EDUSPHERE---Smart-AI-Learning-Platform">
   <img width="80" src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png"/>
   <br/>
   <img src="https://img.shields.io/badge/EDUSPHERE-AI%20Learning-blue?style=for-the-badge"/>
 </a>
+</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
+<p align="center">
 <a href="https://github.com/Kunalray0707/ProConnect">
   <img width="80" src="https://cdn-icons-png.flaticon.com/512/1077/1077114.png"/>
   <br/>
   <img src="https://img.shields.io/badge/ProConnect-Networking-green?style=for-the-badge"/>
 </a>
-
-</p>
 
 </p>
 
@@ -137,10 +141,14 @@
 
 ---
 
-## 📊 Contribution Activity
+## 👾 Contribution Playground
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunalray0707&theme=tokyo-night&hide_border=true" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 ---
