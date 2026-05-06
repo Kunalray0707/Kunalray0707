@@ -120,14 +120,6 @@
 
 ---
 
-## 💡 Fun Fact
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&center=true&lines=Always+building+something+new+🚀" />
-</p>
-
----
-
 ## 🏆 Achievements
 
 <p align="center">
