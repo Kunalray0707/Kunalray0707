@@ -12,16 +12,15 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://linkedin.com/in/your-linkedin-username">
+<a href="https://www.linkedin.com/in/kunal-ray-3483812b9/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
 
-## 👀 Profile Views & Activity
+## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kunalray0707&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Kunalray0707?label=Followers&style=flat&color=blue" />
 </p>
 
 ---
@@ -112,6 +111,14 @@
 
 ---
 
+## 💡 Fun Fact
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&center=true&lines=Always+building+something+new+🚀" />
+</p>
+
+---
+
 ## 🏆 Achievements
 
 <p align="center">
@@ -129,14 +136,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&lines=Always+building+something+new+🚀;Data+%2B+Code+%3D+Impact;Keep+learning+keep+growing" />
 </p>
+
 ---
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunalray0707&theme=react-dark"/>
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Kunalray0707" />
 </p>
-
 ---
 
 ## 🧠 Current Focus
@@ -153,12 +160,4 @@
   <a href="https://github.com/Kunalray0707">
     <img src="https://img.shields.io/github/followers/Kunalray0707?style=for-the-badge&logo=github" />
   </a>
-</p>
-
----
-
-## 💡 Fun Fact
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&center=true&lines=Always+building+something+new+🚀" />
 </p>
