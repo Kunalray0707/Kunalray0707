@@ -67,7 +67,7 @@
 <p align="center">
 
 <a href="https://github.com/Kunalray0707/Zomato-Sales-Performance">
-  <img width="160" src="https://media.giphy.com/media/3o7TKsQ8UQhQkqf2Ss/giphy.gif"/>
+  <img width="140" src="https://media.giphy.com/media/3o7TKsQ8UQhQkqf2Ss/giphy.gif"/>
   <br/>
   <img src="https://img.shields.io/badge/Zomato%20Sales%20Analysis-View%20Project-red?style=for-the-badge"/>
 </a>
@@ -75,7 +75,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Kunalray0707/Netflix-Content-Analysis">
-  <img width="160" src="https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif"/>
+  <img width="140" src="https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif"/>
   <br/>
   <img src="https://img.shields.io/badge/Netflix%20Analysis-View%20Project-black?style=for-the-badge"/>
 </a>
@@ -88,7 +88,7 @@
 <p align="center">
 
 <a href="https://github.com/Kunalray0707/QuizNova---The-Next-Generation-Smart-Quiz-Platform">
-  <img width="160" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif"/>
+  <img width="140" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif"/>
   <br/>
   <img src="https://img.shields.io/badge/QuizNova-Smart%20Quiz-purple?style=for-the-badge"/>
 </a>
@@ -96,7 +96,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Kunalray0707/EDUSPHERE---Smart-AI-Learning-Platform">
-  <img width="160" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif"/>
+  <img width="140" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif"/>
   <br/>
   <img src="https://img.shields.io/badge/EDUSPHERE-AI%20Learning-blue?style=for-the-badge"/>
 </a>
@@ -104,7 +104,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Kunalray0707/ProConnect">
-  <img width="160" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
+  <img width="140" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
   <br/>
   <img src="https://img.shields.io/badge/ProConnect-Networking-green?style=for-the-badge"/>
 </a>
@@ -114,11 +114,11 @@
 ---
 
 ## 📊 GitHub Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kunalray0707&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunalray0707&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kunalray0707&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kunalray0707&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 🏆 Achievements
@@ -134,9 +134,13 @@
 </p>
 
 ---
-## 📊 Activity
+## Activity
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Kunalray0707/Kunalray0707/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kunalray0707/Kunalray0707/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 ---
