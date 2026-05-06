@@ -57,45 +57,54 @@
 
 ## 🚀 Featured Projects
 
-<h3 align="center">📊 Data Analytics</h3>
+---
+
+### 📊 Data Analytics Projects
 
 <p align="center">
+
 <a href="https://github.com/Kunalray0707/Zomato-Sales-Performance">
-  <img width="220" src="https://media.giphy.com/media/3o7TKsQ8UQhQkqf2Ss/giphy.gif"/><br/>
+  <img width="160" src="https://media.giphy.com/media/3o7TKsQ8UQhQkqf2Ss/giphy.gif"/>
+  <br/>
   <img src="https://img.shields.io/badge/Zomato%20Sales%20Analysis-View%20Project-red?style=for-the-badge"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Kunalray0707/Netflix-Content-Analysis">
-  <img width="220" src="https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif"/><br/>
-  <img src="https://img.shields.io/badge/Netflix%20Content%20Analysis-View%20Project-black?style=for-the-badge"/>
+  <img width="160" src="https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Netflix%20Analysis-View%20Project-black?style=for-the-badge"/>
 </a>
+
 </p>
 
 ---
 
-<h3 align="center">🌐 Web Applications</h3>
+### 🌐 Web Development Projects
 
 <p align="center">
 
 <a href="https://github.com/Kunalray0707/QuizNova---The-Next-Generation-Smart-Quiz-Platform">
-  <img width="220" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif"/><br/>
-  <img src="https://img.shields.io/badge/QuizNova-Smart%20Quiz%20App-purple?style=for-the-badge"/>
+  <img width="160" src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif"/>
+  <br/>
+  <img src="https://img.shields.io/badge/QuizNova-Smart%20Quiz-purple?style=for-the-badge"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Kunalray0707/EDUSPHERE---Smart-AI-Learning-Platform">
-  <img width="220" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif"/><br/>
-  <img src="https://img.shields.io/badge/EDUSPHERE-AI%20Platform-blue?style=for-the-badge"/>
+  <img width="160" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif"/>
+  <br/>
+  <img src="https://img.shields.io/badge/EDUSPHERE-AI%20Learning-blue?style=for-the-badge"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Kunalray0707/ProConnect">
-  <img width="220" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/><br/>
-  <img src="https://img.shields.io/badge/ProConnect-Networking%20App-green?style=for-the-badge"/>
+  <img width="160" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
+  <br/>
+  <img src="https://img.shields.io/badge/ProConnect-Networking-green?style=for-the-badge"/>
 </a>
 
 </p>
