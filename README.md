@@ -12,11 +12,7 @@
 
 ## 🌐 Connect With Me
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="kunal-ray-3483812b9" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/kunal-ray-3483812b9?trk=profile-badge">Kunal Ray</a></div>
-<p align="center">
-<a href="https://www.linkedin.com/in/kunal-ray-3483812b9/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-</p>
+
 
 ## 👀 Profile Views
 <p align="center">
