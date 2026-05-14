@@ -109,10 +109,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <p align="center">
-<a href="https://github.com/Kunalray0707/ProConnect">
+<a href="https://github.com/Kunalray0707/ConnectPro---Professional-Matchmaking-Web-App">
   <img width="80" src="https://cdn-icons-png.flaticon.com/512/1077/1077114.png"/>
   <br/>
-  <img src="https://img.shields.io/badge/ProConnect-Networking-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ConnectPro-Networking-green?style=for-the-badge"/>
 </a>
 
 </p>
