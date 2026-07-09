@@ -18,9 +18,14 @@
 </p>
 
 ## 👀 Profile Views
+<p align="center">
+  <a href="https://github.com/Kunalray0707">
+    <img src="https://img.shields.io/github/followers/Kunalray0707?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Profile%20Views-8-black?style=for-the-badge&labelColor=444444&color=FFFFFF" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kunalray0707&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
