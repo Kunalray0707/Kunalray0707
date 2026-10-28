@@ -119,21 +119,6 @@
 
 ---
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kunalray0707&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kunalray0707&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kunalray0707&theme=onestar&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ##  🧠 Mindset
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Code.+Break.+Fix.+Repeat.;Data+%2B+Logic+%3D+Impact;Consistency+beats+motivation;Build+things+that+matter;Stay+curious+⚡" />
