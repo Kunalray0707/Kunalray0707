@@ -140,17 +140,6 @@
 </p>
 
 ---
-
-## 👾 Contribution Playground
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🕹️%20Commit%20Snake-ON-yellow?style=for-the-badge&logo=ghost&logoColor=black"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
----
 ## 🧠 Current Focus
 - 📊 Advanced dashboards  
 - 🌐 Full-stack applications  
